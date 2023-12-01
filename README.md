@@ -213,7 +213,3 @@ std::vector<String> Split(const String& delim = " ") const;
 ```cpp
 String Join(const std::vector<String>& strings) const;
 ```
-
-## Примеры использования
-
-Примеры использования класса `String` представлены в тестах. Убедитесь в правильности ваших реализаций, следуя указанным сигнатурам и требованиям.
